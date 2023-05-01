@@ -31,7 +31,7 @@ if x is not None:
   translated_text = translator.translate(x, src=src_lang, dest=dest_lang).text
 
 # openai의 GPT 모델을 사용하여 문장을 교정합니다.
-openai.api_key = "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"
+openai.api_key = ""
 model_engine = "text-davinci-003"
 corrected_text = openai.Completion.create(
     engine=model_engine,
