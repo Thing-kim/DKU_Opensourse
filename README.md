@@ -22,7 +22,7 @@
 ---
 
 
-## manifestation
+## Manifestation
 
 
 ## Contribution
