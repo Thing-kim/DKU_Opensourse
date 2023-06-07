@@ -1,28 +1,28 @@
 # Improved Translator
 
 ## Intro
-- Googletrans API의 번역 정확성을 높이기 위해 chatgpt를 활용하여 좀 더 자연스러운 문장으로 번역하고자 한다.
+- Googletrans API + Chaptgpt API
 
 ## Goals
-- 
+- Googletrans API의 번역 정확성을 높이기 위해 chatgpt를 활용하여 좀 더 자연스러운 문장으로 번역하고자 한다.
 
 
 
 ---
 
-## How to use
+## usage
 1. openai api key 발급
 - https://platform.openai.com/account/api-keys 페이지 접속후 로그인
 
-- 우측 상단의 Personal 메뉴에서 View API keys
+- Menu <Personal> => <View API keys>
 
 - Create new secret key
 
+- 키 발급 후 복사
+
+2. 번역기 실행 후 API 키 입력
+  
+3. 번역하고자 하는 언어를 선택한 후 번역할 텍스트를 입력창에 입력한다. (입력된 텍스트는 자동으로 언어 탐지)
+  키가 삽입되지 않았거나, 텍스트를 입력하지 않았거나, 언어가 선택되지 않았으면 번역은 실행되지 않는다. (오류 메시지) 
 
 ---
-
-
-## Manifestation
-
-
-## Contribution
