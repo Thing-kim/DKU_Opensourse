@@ -10,8 +10,11 @@
 - res 폴더에 있는 실행파일을 다운로드해도 되고 스크립트를 실행해도 된다.
 
 ---
+## Developer Guide
+추가중..
+---
 
-## usage
+## User Guide
 1. openai api key 발급
 - https://platform.openai.com/account/api-keys 페이지 접속후 로그인
 
