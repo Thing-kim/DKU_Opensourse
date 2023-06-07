@@ -11,7 +11,7 @@
 
 ---
 ## Developer Guide
-추가중..
+- 추가중..
 ---
 
 ## User Guide
