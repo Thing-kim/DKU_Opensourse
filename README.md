@@ -6,7 +6,8 @@
 ## Goals
 - Googletrans API의 번역 정확성을 높이기 위해 chatgpt를 활용하여 좀 더 자연스러운 문장으로 번역하고자 한다.
 
-
+## Implementation
+- res 폴더에 있는 실행파일을 다운로드해도 되고 스크립트를 실행해도 된다.
 
 ---
 
