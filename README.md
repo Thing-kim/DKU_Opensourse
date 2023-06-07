@@ -14,7 +14,7 @@
 1. openai api key 발급
 - https://platform.openai.com/account/api-keys 페이지 접속후 로그인
 
-- 우측 상단의 "Personal" 메뉴에서 "View API keys"
+- 우측 상단의 Personal 메뉴에서 View API keys
 
 - Create new secret key
 
