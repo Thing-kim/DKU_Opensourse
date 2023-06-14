@@ -30,7 +30,11 @@
 
 ---
 
-Reference
+이는 Googletrans API를 활용하여 제작된 소프트웨어입니다.
+
+---
+
+##Reference
 
 [1] <https://pypi.org/project/googletrans/>
 
