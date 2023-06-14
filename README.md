@@ -29,11 +29,16 @@
   키가 삽입되지 않았거나, 텍스트를 입력하지 않았거나, 언어가 선택되지 않았으면 번역은 실행되지 않는다. (오류 메시지) 
 
 ---
----
+
 Reference
 [1] <https://pypi.org/project/googletrans/>
+
 [2] <https://platform.openai.com/docs/api-reference>
+
 [3] <https://link.springer.com/content/pdf/10.1007/3-540-36492-7_17.pdf>
+
 [4] <https://m.blog.naver.com/animus98/221658335880>
+
 [5] <https://pearlluck.tistory.com/372>
 
+---
