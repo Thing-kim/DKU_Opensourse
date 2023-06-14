@@ -9,8 +9,8 @@
 ---
 
 ## Developer Guide
-- Googletrans API는 버전문제로 번역이 안되는 경우가 있다. 따라서 4.0 이상 버전을 사용해야 한다.
-- 
+- Googletrans API는 버전문제로 번역이 안되는 경우가 있다. 따라서 4.0.0 이상 버전을 사용해야 한다.
+
 ---
 
 ## User Guide
